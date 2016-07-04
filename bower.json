@@ -1,0 +1,17 @@
+{
+  "name": "scifiui",
+  "homepage": "https://github.com/jeronimonunez/scifiui",
+  "authors": [
+    "Jeronimo Nunez <jeronimonunez@gmail.com>"
+  ],
+  "description": "Scifi ui like in Matrix, Hackers or Swordfish",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
